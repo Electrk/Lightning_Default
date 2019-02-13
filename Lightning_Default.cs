@@ -22,7 +22,7 @@ datablock AudioProfile (ThunderCrash4Sound)
    description = Audio2d;
 };
 
-datablock AudioProfile(LightningStrikeSound)
+datablock AudioProfile (LightningStrikeSound)
 {
    filename    = "Add-Ons/Lightning_Default/lightningStrike.wav";
    description = AudioClosest3d;
