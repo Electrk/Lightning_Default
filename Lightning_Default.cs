@@ -31,7 +31,7 @@ datablock AudioProfile(LightningStrikeSound)
 
 datablock LightningData (LightningDefault)
 {
-   damageType     = $DamageType::LightningStrike;
+   damageType = $DamageType::LightningStrike;
 
    strikeTextures[0] = "Add-Ons/Lightning_Default/lightning1frame1";
    strikeTextures[1] = "Add-Ons/Lightning_Default/lightning1frame2";
