@@ -1,30 +1,30 @@
 datablock AudioProfile (ThunderCrash1Sound)
 {
-   filename  = "Add-Ons/Lightning_Default/thunder1.wav";
+   filename    = "Add-Ons/Lightning_Default/thunder1.wav";
    description = Audio2d;
 };
 
 datablock AudioProfile (ThunderCrash2Sound)
 {
-   filename  = "Add-Ons/Lightning_Default/thunder2.wav";
+   filename    = "Add-Ons/Lightning_Default/thunder2.wav";
    description = Audio2d;
 };
 
 datablock AudioProfile (ThunderCrash3Sound)
 {
-   filename  = "Add-Ons/Lightning_Default/thunder3.wav";
+   filename    = "Add-Ons/Lightning_Default/thunder3.wav";
    description = Audio2d;
 };
 
 datablock AudioProfile (ThunderCrash4Sound)
 {
-   filename  = "Add-Ons/Lightning_Default/thunder4.wav";
+   filename    = "Add-Ons/Lightning_Default/thunder4.wav";
    description = Audio2d;
 };
 
 datablock AudioProfile(LightningStrikeSound)
 {
-   filename  = "Add-Ons/Lightning_Default/lightningStrike.wav";
+   filename    = "Add-Ons/Lightning_Default/lightningStrike.wav";
    description = AudioClosest3d;
 };
 
